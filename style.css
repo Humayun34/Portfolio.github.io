@@ -485,6 +485,7 @@ footer .text span a:hover{
   nav .navbar{
     width: 90%;
   }
+
   nav .navbar .menu{
     position: fixed;
     left: -100%;
@@ -590,6 +591,7 @@ footer .text span a:hover{
   background-position: center;
   background-attachment: fixed;
   font-family: 'Ubuntu', sans-serif;
+  
 
 }  
 .skills-details .boxes .per{
@@ -602,5 +604,10 @@ footer .text span a:hover{
   object-fit: cover;
   border-radius: 50%;
 
+}
+.media-icons a{
+  color: #4070f4;
+  font-size: 22px;
+  margin: 0 12px;
 }
 }
