@@ -591,7 +591,6 @@ footer .text span a:hover{
   background-position: center;
   background-attachment: fixed;
   font-family: 'Ubuntu', sans-serif;
-  
 
 }  
 .skills-details .boxes .per{
@@ -604,6 +603,12 @@ footer .text span a:hover{
   object-fit: cover;
   border-radius: 50%;
 
+}
+section  .topic{
+  color: #0E2431;
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 10px;
 }
 .media-icons a{
   color: #4070f4;
